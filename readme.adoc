@@ -70,7 +70,7 @@ _{description}_ +
 endif::[]
 
 
-== About the Project
+== About the Pro
 This repository provides a good foundation for establishing a README, written in AsciiDoc markup.  Documents written in AsciiDoc markup can be easily converted to HTML5, PDF, EPUB, and other formats.  Its syntax is similar to markdown, and includes extensive features and flexibility which make it suitable for writing high quality documentation.
 
 AsciiDoc is simply plain-text.  You can author documents in your favorite text editor of choice, such as https://code.visualstudio.com/[Visual Studio Code] with a proper https://marketplace.visualstudio.com/items?itemName=asciidoctor.asciidoctor-vscode[extension], or any derivative of https://github.com/qvacua/vimr[VIM].  If you're just getting started with AsciiDoc, you may want to try https://asciidocfx.com/[AsciidocFX], until the markup syntax becomes second nature to you.
