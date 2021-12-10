@@ -92,7 +92,7 @@ This is an example of how you may give instructions on setting up your project l
 === Prerequisites
 Select the prequisites procedure which aligns with your operating system of choice.
 
-==== Installing _Git_ on _Linux_
+==== Installing _Git_ on _Linux_dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 Determine on *which _Linux_ distribution* your system is  ased on.  See http://en.wikipedia.org/wiki/List_of_Linux_distributions[List of Linux distributions -- Wikipedia] -- for a list. *Most _Linux_ systems -- including _Ubuntu_ -- are _Debian_-based.*
 
 ===== _Debian_-based linux systems
